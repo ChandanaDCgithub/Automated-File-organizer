@@ -27,5 +27,4 @@ This Python script automatically organizes files in a folder based on their file
 - Downloads folder management
 - Automation practice
 
-## 🚀 Author
-Your Name
+
